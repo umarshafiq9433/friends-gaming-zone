@@ -10,11 +10,11 @@ body{
 .c2 h2{
 }
 .slider-bg1{
-    background-image: url(../img/section/hero4.png) !important;
+    background-image: url(../img/section/hero4.png),url(../img/section/891537.jpg),url(../img/section/hero2.png) !important;
     background-color: #1b1024 !important;
 }
 .slider-bg2{
-    background-image: url(../img/section/hero3.png) !important;
+    background-image: url(../img/section/hero3.png),url(../img/section/constant-loubier-7lzIyp2Ork4-unsplash.jpg) !important;
     background-color: #1b1024 !important;
 }
 .slider-bg3{
@@ -28,11 +28,23 @@ body{
     background-position: right 70px !important;
 }
 .slider-bg7{
-    background-image: url(../img/section/vr.jpg) !important;
+    background-image: url(../img/section/cinema.jpg) !important;
     background-color: #1b1024 !important;
 }
 .slider-bg{
     background-image: url(../img/section/580b57fcd9996e24bc43c28c.png);
+    background-color: #1b1024 !important;
+}
+.bgimg{
+    background-image:url(../img/section/kisspng-virtual-reality-headset-samsung-gear-vr-tech-addic-vr-headset-5ac10b55352df2.5501600015226007892178.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    overflow-x: hidden;
+    height: 700px;
+}
+.slider-bgvr{
+    background-image: url(../img/section/Teslasuit-VR-1.png);
     background-color: #1b1024 !important;
 }
 .slider-bg-top{
