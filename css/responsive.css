@@ -400,7 +400,7 @@
 
 
 /* Large devices (desktops, 992px and up) */
-@media (max-width: 991.98px) {
+@media (max-width: 992px) {
     .container-full-padding,
     .s-container-full-padding {
         padding: 0 30px;
@@ -716,7 +716,7 @@
 
 
 /* Medium devices (tablets, 768px and up) */
-@media (max-width: 767.98px) {
+@media (max-width: 768px) {
     .container-full-padding,
     .s-container-full-padding {
         padding: 0 15px;
@@ -1400,3 +1400,35 @@
 }
 
 
+@media (max-width: 576px) {
+.res{
+    margin-top: 20px !important;
+    width:80%;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+    .bgimg {
+        height: 150px;
+        width: 95%;
+    }
+  .ov{
+      overflow-x: hidden;
+  }
+  body{
+      width: 100%;
+  }
+
+    element.style {
+    }
+    .about-content p:nth-child(2) {
+        margin-bottom: 55px;
+    }
+    p {
+        font-size: 15px;
+        font-weight: 500;
+        line-height: 28px;
+        color: #cbcbcb;
+        margin-bottom: 15px;
+    }
+}
