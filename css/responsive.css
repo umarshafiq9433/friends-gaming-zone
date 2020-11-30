@@ -63,7 +63,7 @@
     }
 
     .slider-bg {
-        padding: 180px 0;
+        padding: 50px 0;
     }
 
     .slider-style-two {
@@ -118,7 +118,7 @@
     }
 
     .slider-bg {
-        padding: 180px 0;
+        padding: 50px 0;
     }
 
     .navbar-wrap ul li a {
@@ -450,7 +450,7 @@
     }
 
     .slider-bg {
-        padding: 180px 0;
+        padding: 50px 0;
     }
 
     .navbar-wrap ul li a {
@@ -721,7 +721,6 @@
     .s-container-full-padding {
         padding: 0 15px;
     }
-
     .header-top-right {
         justify-content: center;
         padding: 10px 0;
@@ -776,7 +775,7 @@
     }
 
     .slider-bg {
-        padding: 120px 0;
+        padding: 50px 0;
     }
 
     .section-title h2 {
@@ -1409,8 +1408,8 @@
 
 }
     .bgimg {
-        height: 150px;
-        width: 95%;
+        height: 190px;
+        width: 100%;
     }
   .ov{
       overflow-x: hidden;
@@ -1431,4 +1430,45 @@
         color: #cbcbcb;
         margin-bottom: 15px;
     }
+    .slider-content h6{
+        font-weight: 100;
+    }
+
+    .slider-bgvr{
+        background-image: url(../img/section/VIVE-blog-header-Industry-AEC.jpg);
+        background-color: #1b1024 !important;
+        background-size: cover;
+
+    }
+    .picsm{
+        height: 100px !important;
+    }
+    .navbar-wrap ul li a {
+        font-size: 8px !important;
+        padding: 13px 20px !important;
+    }
+    .logo a h5 {
+        font-size: 100%!important;
+        margin-top: 20px;
+    }
+    .icon{
+        height: 60px !important;
+    }
+
+    .befor{
+        display: block !important;
+    }
+    .after{
+        display: none;
+    }
+}
+.logo a h5 {
+    font-size: 250%;
+    margin-top: 5px;
+}
+.icon{
+height: 150px;
+}
+.befor{
+    display: none;
 }
